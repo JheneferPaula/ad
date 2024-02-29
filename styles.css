@@ -1,0 +1,36 @@
+/* Estilos do CSS */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #E2BC6D;
+    padding: 10px;
+    text-align: center;
+}
+
+header h1 {
+
+}
+
+nav {
+    background-color: #0C162C;
+    color: #0C162C;
+    text-align: center;
+    padding: 10px;
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+section {
+    padding: 20px;
+}
+footer {
+    background-color: #0C162C;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
